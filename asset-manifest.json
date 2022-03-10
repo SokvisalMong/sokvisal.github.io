@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d99a75f.css",
+    "main.js": "/static/js/main.9b1c480f.js",
+    "static/media/whitecatdog.png": "/static/media/whitecatdog.6b4b4c2cb27f1bf25b01.png",
+    "static/media/adoptme.png": "/static/media/adoptme.633c16765108753af1f7.png",
+    "static/media/pug.png": "/static/media/pug.a5cc6151226919af3ce4.png",
+    "static/media/orangeDoge.png": "/static/media/orangeDoge.435b498e3245da89338d.png",
+    "static/media/sivtheng.jpg": "/static/media/sivtheng.af76360686e80ecb96b1.jpg",
+    "static/media/learnmore3.png": "/static/media/learnmore3.24a3d5ab98497b28d657.png",
+    "static/media/learnmore2.png": "/static/media/learnmore2.31c74aeb5551811822bb.png",
+    "static/media/learnmore1.png": "/static/media/learnmore1.626c8417fa225b0e6b6b.png",
+    "static/media/pit.png": "/static/media/pit.2c3b65b9b92e7d7b230f.png",
+    "static/media/logo.png": "/static/media/logo.a7418994105dd50edd80.png",
+    "static/media/rat.png": "/static/media/rat.caae0821733665b4c234.png",
+    "static/media/learnmore4.png": "/static/media/learnmore4.2893c31caba80f4a9a3f.png",
+    "static/media/pich.jpg": "/static/media/pich.d6a24c5456b8cb52c731.jpg",
+    "static/media/thy.png": "/static/media/thy.49eb2c8237934dafa7ca.png",
+    "static/media/pinkcatdog.jpg": "/static/media/pinkcatdog.b67ba8b9112ee24b4c56.jpg",
+    "static/media/vaccine.png": "/static/media/vaccine.d8405e86eb788b38dd81.png",
+    "static/media/yellowdog.jpg": "/static/media/yellowdog.b72ad812ff2611ed325f.jpg",
+    "static/media/greendog.jpg": "/static/media/greendog.1d4c201aa78e8d914158.jpg",
+    "static/media/redpinkdog.jpg": "/static/media/redpinkdog.cf0ef894162c0ff391af.jpg",
+    "static/media/neutered.png": "/static/media/neutered.fcba0eaade6cbc23b967.png",
+    "index.html": "/index.html",
+    "main.4d99a75f.css.map": "/static/css/main.4d99a75f.css.map",
+    "main.9b1c480f.js.map": "/static/js/main.9b1c480f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d99a75f.css",
+    "static/js/main.9b1c480f.js"
+  ]
+}
